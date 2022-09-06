@@ -1,2 +1,3 @@
 # banner
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
